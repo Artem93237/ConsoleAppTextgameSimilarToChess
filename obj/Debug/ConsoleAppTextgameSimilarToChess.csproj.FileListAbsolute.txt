@@ -1,0 +1,6 @@
+E:\C#\ConsoleAppTextgameSimilarToChess\ConsoleAppTextgameSimilarToChess\bin\Debug\ConsoleAppTextgameSimilarToChess.exe.config
+E:\C#\ConsoleAppTextgameSimilarToChess\ConsoleAppTextgameSimilarToChess\bin\Debug\ConsoleAppTextgameSimilarToChess.exe
+E:\C#\ConsoleAppTextgameSimilarToChess\ConsoleAppTextgameSimilarToChess\bin\Debug\ConsoleAppTextgameSimilarToChess.pdb
+E:\C#\ConsoleAppTextgameSimilarToChess\ConsoleAppTextgameSimilarToChess\obj\Debug\ConsoleAppTextgameSimilarToChess.csprojAssemblyReference.cache
+E:\C#\ConsoleAppTextgameSimilarToChess\ConsoleAppTextgameSimilarToChess\obj\Debug\ConsoleAppTextgameSimilarToChess.exe
+E:\C#\ConsoleAppTextgameSimilarToChess\ConsoleAppTextgameSimilarToChess\obj\Debug\ConsoleAppTextgameSimilarToChess.pdb
